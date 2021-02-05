@@ -1,0 +1,5 @@
+Credentials cache: API:B6D03C08-1D3A-49B0-8E2F-B1843A3BE74E
+        Principal: dlago-mo@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 16:41:57 2020  Nov 24 02:41:48 2020  krbtgt/42MADRID.COM@42MADRID.COM
