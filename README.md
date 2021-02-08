@@ -4,5 +4,8 @@
 ---
 
 ### Index
-
+* C Exercises
+* Rush
+* Bsq
+* Exams
 ---
