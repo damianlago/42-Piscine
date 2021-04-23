@@ -11,7 +11,7 @@
 ### C
 | Name | Subject | Route |
 | --- | --- | --- |
-| C00  | ()  | () |
+| C00  | [a link](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf) | () |
 | C01  | ()  | () |
 | C02  | ()  | () |
 | C03  | ()  | () |
