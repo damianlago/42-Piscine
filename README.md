@@ -4,8 +4,8 @@
 ## Projects
 ### Shell
 | --- | --- | --- |
-| Shell00  | [Subject](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell00) |
-| Shell01  | [Subject](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell01)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell01) |
+| Shell00 | [Subject](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell00) |
+| Shell01 | [Subject](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell01)  | [Project](https://github.com/damianlago/42-Piscine/tree/master/shell/shell01)  |
 
 ### C
 | Name | Subject | Route |
