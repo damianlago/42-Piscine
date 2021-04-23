@@ -27,4 +27,4 @@
 | Rush02  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush02)  | 
 
 ## Exams
-
+[https://github.com/damianlago/42-Piscine/tree/master/exam]
