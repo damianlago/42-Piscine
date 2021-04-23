@@ -26,10 +26,5 @@
 | Rush01  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush01)  | 
 | Rush02  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush02)  | 
 
-
-## BSQ
-| Name | Subject | Route |
-| --- | --- | --- |
-| bsq  | ()  | () |
-
 ## Exams
+
