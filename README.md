@@ -1,4 +1,4 @@
-# <img src="42-logo.png" width="48">
+# <img src="42-logo.png" width="55">
 # 42 Madrid Piscine
 
 ## Projects
