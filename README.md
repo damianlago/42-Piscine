@@ -5,13 +5,13 @@
 ### Shell
 | Name | Subject | Route |
 | --- | --- | --- |
-| Shell00  | ()  | () |
+| Shell00  | [Subject](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf)  | () |
 | Shell01  | ()  | () |
 
 ### C
 | Name | Subject | Route |
 | --- | --- | --- |
-| C00  | [a link](https://github.com/damianlago/42-Piscine/blob/master/shell/shell00/es.subject.pdf) | () |
+| C00  | () | () |
 | C01  | ()  | () |
 | C02  | ()  | () |
 | C03  | ()  | () |
