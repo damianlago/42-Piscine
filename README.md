@@ -20,11 +20,12 @@
 | C06  | [Subject](https://github.com/damianlago/42-Piscine/blob/master/c/c06/es.subject.pdf) | [Project](https://github.com/damianlago/42-Piscine/tree/master/c/c06) |
 
 ## Rush
-| Name | Subject | Route |
-| --- | --- | --- |
-| Rush00  | ()  | () |
-| Rush01  | ()  | () |
-| Rush02  | ()  | () |
+|  |  |  
+| --- | --- | 
+| Rush00  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush00)  | 
+| Rush01  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush01)  | 
+| Rush02  | [Project](https://github.com/damianlago/42-Piscine/tree/master/rush/rush02)  | 
+
 
 ## BSQ
 | Name | Subject | Route |
