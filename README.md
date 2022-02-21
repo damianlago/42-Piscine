@@ -1,6 +1,6 @@
 # <img src="42-logo.png" width="55">
 # 42 Madrid Piscine
-# Currently working on powerfull documentation!
+# Currently working on new documentation!
 
 ## Projects
 ### Shell
